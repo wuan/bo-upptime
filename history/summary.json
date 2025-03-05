@@ -22,18 +22,20 @@
     "url": "http://tryb.de",
     "icon": "https://icons.duckduckgo.com/ip3/tryb.de.ico",
     "slug": "bo-service-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 314,
-    "timeWeek": 269,
-    "timeMonth": 236,
-    "timeYear": 236,
-    "dailyMinutesDown": {}
+    "time": 233,
+    "timeDay": 243,
+    "timeWeek": 257,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {
+      "2025-03-05": 0
+    }
   },
   {
     "name": "BO-Service 1 Metrics",
