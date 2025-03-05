@@ -1,7 +1,7 @@
 url: http://tryb.de
-status: down
-code: 502
-responseTime: 172
-lastUpdated: 2025-03-05T11:24:56.916Z
+status: up
+code: 200
+responseTime: 216
+lastUpdated: 2025-03-05T15:52:15.570Z
 startTime: 2025-02-02T10:41:29.766Z
 generator: Upptime <https://github.com/upptime/upptime>
