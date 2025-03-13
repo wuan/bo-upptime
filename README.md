@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://wuan.github.io/bo-upptime/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Andreas Würl](https://wuerl.net), powered by [Upptime](https://github.com/upptime/upptime).
 
