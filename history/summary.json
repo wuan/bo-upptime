@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 509,
-    "timeWeek": 650,
-    "timeMonth": 608,
-    "timeYear": 638,
+    "time": 640,
+    "timeDay": 711,
+    "timeWeek": 660,
+    "timeMonth": 615,
+    "timeYear": 640,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.53%",
-    "time": 228,
-    "timeDay": 186,
-    "timeWeek": 207,
-    "timeMonth": 219,
-    "timeYear": 228,
+    "time": 229,
+    "timeDay": 272,
+    "timeWeek": 220,
+    "timeMonth": 222,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2025-03-05": 267
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 801,
-    "timeWeek": 816,
-    "timeMonth": 829,
-    "timeYear": 850,
+    "time": 852,
+    "timeDay": 952,
+    "timeWeek": 854,
+    "timeMonth": 839,
+    "timeYear": 852,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/raijin.tryb.de.ico",
     "slug": "bo-service-2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 499,
-    "timeWeek": 452,
-    "timeMonth": 452,
-    "timeYear": 462,
+    "uptime": "99.61%",
+    "uptimeDay": "84.56%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.61%",
+    "time": 463,
+    "timeDay": 542,
+    "timeWeek": 463,
+    "timeMonth": 459,
+    "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-03-13": 0
+      "2025-03-14": 76,
+      "2025-03-13": 147
     }
   },
   {
@@ -86,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 474,
-    "timeWeek": 530,
-    "timeMonth": 566,
-    "timeYear": 587,
+    "time": 590,
+    "timeDay": 694,
+    "timeWeek": 561,
+    "timeMonth": 574,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   }
 ]
