@@ -85,7 +85,7 @@
     "url": "https://raijin.tryb.de",
     "icon": "https://icons.duckduckgo.com/ip3/raijin.tryb.de.ico",
     "slug": "bo-service-2-metrics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -97,6 +97,7 @@
     "timeMonth": 600,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2025-04-30": 0,
       "2025-03-15": 35
     }
   }
