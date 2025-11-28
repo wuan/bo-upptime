@@ -1,7 +1,7 @@
 url: https://metrics.tryb.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-28T11:25:14.617Z
+status: up
+code: 200
+responseTime: 819
+lastUpdated: 2025-11-28T11:36:24.579Z
 startTime: 2025-02-02T10:51:28.294Z
 generator: Upptime <https://github.com/upptime/upptime>
