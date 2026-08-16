@@ -34,10 +34,10 @@
     "slug": "bo-service-1",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "88.35%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "86.05%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.42%",
     "time": 405,
     "timeDay": 13050,
     "timeWeek": 6657,
@@ -53,7 +53,7 @@
       "2026-04-01": 579,
       "2026-05-02": 97,
       "2026-06-23": 217,
-      "2026-08-16": 168
+      "2026-08-16": 201
     }
   },
   {
@@ -61,9 +61,9 @@
     "url": "https://metrics.tryb.de",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.tryb.de.ico",
     "slug": "bo-service-1-metrics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "93.57%",
+    "uptimeDay": "93.55%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.47%",
