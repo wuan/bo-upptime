@@ -32,13 +32,13 @@
     "url": "http://tryb.de",
     "icon": "https://icons.duckduckgo.com/ip3/tryb.de.ico",
     "slug": "bo-service-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "83.30%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "82.67%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.41%",
-    "time": 405,
+    "time": 406,
     "timeDay": 9851,
     "timeWeek": 5743,
     "timeMonth": 2329,
@@ -53,7 +53,7 @@
       "2026-04-01": 579,
       "2026-05-02": 97,
       "2026-06-23": 217,
-      "2026-08-16": 241
+      "2026-08-16": 250
     }
   },
   {
@@ -61,11 +61,11 @@
     "url": "https://metrics.tryb.de",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.tryb.de.ico",
     "slug": "bo-service-1-metrics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "91.97%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.46%",
     "time": 948,
     "timeDay": 1166,
@@ -82,7 +82,7 @@
       "2026-04-01": 578,
       "2026-05-02": 97,
       "2026-06-23": 89,
-      "2026-08-16": 128
+      "2026-08-16": 116
     }
   },
   {
